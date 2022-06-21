@@ -1,0 +1,15 @@
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\bin\Debug\QLST2.exe.config
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\bin\Debug\QLST2.exe
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\bin\Debug\QLST2.pdb
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.login.resources
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.Properties.Resources.resources
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.csproj.GenerateResource.cache
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.csproj.CoreCompileInputs.cache
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.exe
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.pdb
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.nhanvien.resources
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.Quanlisieuthi.resources
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.Thông_tin_sản_phẩm.resources
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.Khách_hàng.resources
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.Phiếu_nhập_hàng.resources
+C:\Users\DXD_2001\source\repos\QLST2\QLST2\obj\Debug\QLST2.csproj.AssemblyReference.cache
